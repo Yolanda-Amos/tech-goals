@@ -14,7 +14,7 @@ git clone https://github.com/Yolanda-Amos/tech-goals.git
 Navigate into the project directory:
 
 ```bash
-cd my-tech-goals
+cd tech-goals
 ```
 Open index.html in your web browser.
 
