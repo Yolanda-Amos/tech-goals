@@ -8,7 +8,7 @@ Clone the repository:
 
 
 ```bash
-git clone https://github.com/your-username/my-tech-goals.git
+git clone https://github.com/Yolanda-Amos/tech-goals.git
 ```
 
 Navigate into the project directory:
